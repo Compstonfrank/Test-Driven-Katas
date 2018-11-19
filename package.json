@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha wrap.spec.js"
+    "test": "mocha -w wrap.spec.js"
   },
   "keywords": [],
   "author": "",
